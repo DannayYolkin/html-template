@@ -1,0 +1,12 @@
+
+      .model_table {
+        margin: 10px;      
+        width: 100%;
+      }
+      .model_table1 {
+        background-color: #f5080854;
+      }
+      .model_table tr:hover {
+        background-color: #006effb4;
+      }
+  
